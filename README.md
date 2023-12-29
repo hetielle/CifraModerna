@@ -4,7 +4,8 @@ Projeto básico desenvolvido para a matéria Segurança da Informação em 2022 
 
 ## 📋 Funcionalidades:
 
-- Criptografar com os algoritmos AES e ChaCha20
+- Criptografar com o algoritmo RSA
+- Descriptografar com o algoritmo RSA
 - Descriptografar com os algoritmos AES e ChaCha20
 
 
@@ -13,3 +14,4 @@ Projeto básico desenvolvido para a matéria Segurança da Informação em 2022 
 * Java
 * AES
 * ChaCha20
+* RSA
